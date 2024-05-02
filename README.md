@@ -1,2 +1,2 @@
 # pruebas
-Pruebas
+Prueba
