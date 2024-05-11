@@ -1,4 +1,3 @@
 # Titulo 
 
-Lorem ipsum dolor sit amet, qui minim labore adipisicing minim sint cillum sint consectetur cupidatat.
-
+Hacer un commit por cada iten editado y finalmente hacer una solicitud de Merge.
