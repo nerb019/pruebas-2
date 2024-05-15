@@ -6,7 +6,7 @@ La idea es poder familiarizarse con los comandos básicos. Para ello deberás ha
 
 ## Ejercicios ##
 
-+ 2 + 3 =
++ 2 + 3 = 5
 + $sqrt{3x-1}+(1+x)^2$
 
 ## Adicionales
