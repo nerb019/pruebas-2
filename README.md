@@ -6,8 +6,8 @@ La idea es poder familiarizarse con los comandos básicos. Para ello deberás ha
 
 ## Ejercicios ##
 
-+ 2 + 3 = 5
-+ $sqrt{3x-1}+(1+x)^2$
++ 2 + 3 = 8
++ $sqrt{3x-1}+(1+x)^2$ rama-33
 
 ## Adicionales
 
